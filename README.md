@@ -1,1 +1,1 @@
-Collection of various mini web scrapping projects
+Collection of various mini web scraping projects
